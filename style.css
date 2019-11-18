@@ -202,6 +202,7 @@ header {
 #main-feature img {
   visibility: hidden;
   position: absolute;
+  width: 250px;
 }
 
 /*OUR PROJETS*/
@@ -435,12 +436,6 @@ iframe {
   visibility: hidden;
 }
 
-
-@media screen and (max-width: 600px) {
-	img{
-	width: 100%;
-}
-}
 /* BREAKPOINTS MEDIA QUERIES */
 
 @media screen and (min-width: 768px) {
