@@ -258,23 +258,13 @@ header {
   background-image: linear-gradient(#5cadd3 90%, #4494bb 0%);
 }
 
-#link2:hover #first-triangle {
-  visibility: hidden;
-}
-
 .list:hover+.triangle {
-  visibility: visible;
-}
-
-#first-triangle {
   visibility: visible;
 }
 
 #link1 {
   border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
-  background-image: linear-gradient(#5cadd3 90%, #4494bb 0%);
-  color: white;
 }
 
 #link4 {
@@ -511,7 +501,7 @@ iframe {
     font-size: 1.5em;
     color: #ffffff;
     background-color: rgba(0, 0, 0, 0.3);
-    top: 270px;
+    top: 250px;
   }
 
   #l-arrow {
