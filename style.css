@@ -142,7 +142,7 @@ header {
 }
 
 #button-info {
-  background: #5cadd3;
+  background-image: linear-gradient(#5cadd3 90%, #4494bb 0%);
   width: 150px;
   text-align: center;
   padding: 15px 0 15px 0;
@@ -158,7 +158,7 @@ header {
 }
 
 #button-info:hover {
-  background-image: linear-gradient(#5cadd3 90%, #4494bb 0%);
+  background: #4494bb;
 }
 
 #infos #l-arrow, #r-arrow {
@@ -406,18 +406,19 @@ header {
 
 #send-message {
   opacity: 1;
-  background-color: #5cadd3;
+  background-image: linear-gradient(#5cadd3 90%, #4494bb 0%);
   border-radius: 2px;
   border: 0px;
   margin-bottom: 0.5%;
   color: #ffffff;
+  font-weight: bold;
   padding: 5px 0px 5px 0px;
   width: 150px;
   height: 45px;
 }
 
 #send-message:hover {
-  background-image: linear-gradient(#5cadd3 90%, #4494bb 0%);
+  background: #4494bb;
 }
 
 #fir-txt-form {
