@@ -171,7 +171,7 @@ header {
   align-items: center;
 }
 
-#our-services #p2 {
+#p2 {
   text-align: center;
   width: 80%;
   overflow: hidden;
@@ -453,13 +453,10 @@ iframe {
   }
 
   #nav-bar a {
-    margin-left: 10px;
+    margin: 0px;
     font-size: 1em;
     border-top: 5px solid #ffffff;
-  }
-
-  #nav-bar a {
-    padding: 30px 5px 0 5px;
+    padding: 30px 15px 0 15px;
   }
 
   #nav-bar a:hover {
@@ -625,7 +622,7 @@ iframe {
     margin: -100px 50% 10px 0;
   }
 
-  #icons #seo {
+  #icons h3:last-of-type {
     margin-right: 57%;
   }
 
